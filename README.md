@@ -1,4 +1,4 @@
-# 📚 DBI-Test – Übersicht zu Triggern in PL/SQL
+# 📚 Übersicht zu Triggern in PL/SQL
 
 Willkommen in meiner Übersicht.  
 Hier findest du strukturierte Links zu den jeweiligen Beispielen und Übungen:
