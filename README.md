@@ -8,7 +8,7 @@ Hier findest du strukturierte Links zu den jeweiligen Beispielen und Übungen:
 ## 📌 Trigger-Übersicht
 
 🔎 Allgemeine Übersicht und Beispiele:
-- [📄 DBI-Trigger-Overview](https://github.com/ad220296/DBI-Trigger-Overview)
+- [📄 DBI-Trigger-Guide](https://github.com/ad220296/DBI-Trigger-Overview)
 
 ---
 
